@@ -9,7 +9,7 @@ beleuchtet, der Rest in tiefem Schatten, Bernstein-Augen leuchten, Narbe im Lich
 - **Hut-Regel (Nutzer 14.11.2026):** Draußen und im Artist-Look (Atelier, Gasse, Meer) fast immer Strohhut als Erkennungszeichen.
   Dunkle Aura-Nahaufnahmen und Sprechvideos OHNE Hut (oder höchstens schwarzer Hut weit nach hinten), damit Narbe und Augen im Licht bleiben.
 - **Haar-Regel (Nutzer 14.11.2026: „mach wie du denkst“):** Normalfall offene lange Locs (wie in den Referenzen). Draußen mit
-  Strohhut, Locs offen darunter. Zurückgebunden nur ab und zu (Profilbild, extremes Close-up mit voll sichtbarer Narbe).
+  Strohhut, Locs offen darunter. Zurückgebunden nur ab und zu (z. B. extremes Close-up mit voll sichtbarer Narbe).
 - Profilbild seit 14.11.2026: dunkles Aura-Porträt, offene Locs, ohne Hut, Hand am Kinn (`assets/profil.jpg`).
 - Auch die meisten Reels/Fotos (mind. 2 von 3) in dieser Lichtstimmung; helle Szenen (Strand, Gasse, Reaktion im Alltag) nur als Abwechslung.
 
