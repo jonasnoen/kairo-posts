@@ -1,0 +1,11 @@
+{
+  "test": {"name": "Start Kairo", "from": "", "to": "", "details": "STRATEGIE.md", "note": "Leer = pausiert. Startdatum legt der Nutzer fest."},
+  "budget": {"monthlyUsd": 50},
+  "referenceCosts": [
+    {"date": "2026-11-13", "what": "Charakter-Entwicklung, Referenzen, Narbe, Tests (Albino/Vitiligo), Größen-Referenz", "costUsd": 10.0},
+    {"date": "2026-11-14", "what": "Profilbild 1:1 (Collage)", "costUsd": 0.30, "generationId": "qDkko1vmFb1Cv5s0Q5CG"}
+  ],
+  "posts": [],
+  "stock": [],
+  "reelDrafts": []
+}
