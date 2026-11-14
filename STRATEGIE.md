@@ -8,10 +8,8 @@ beleuchtet, der Rest in tiefem Schatten, Bernstein-Augen leuchten, Narbe im Lich
   background, a single narrow warm light from the side so that only part of his face is lit and the rest falls into deep shadow“).
 - **Hut-Regel (Nutzer 14.11.2026):** Draußen und im Artist-Look (Atelier, Gasse, Meer) fast immer Strohhut als Erkennungszeichen.
   Dunkle Aura-Nahaufnahmen und Sprechvideos OHNE Hut (oder höchstens schwarzer Hut weit nach hinten), damit Narbe und Augen im Licht bleiben.
-- **Haar-Regel (Nutzer 14.11.2026):** Locs entweder nach hinten zurückgebunden (wie Profilbild, Standard für dunkle Aura-Nahaufnahmen
-  und Sprechvideos, ohne Hut) ODER offen zur Seite fallend, dann MIT Strohhut. Nie offene Locs ohne Hut.
-  Prompt ohne Hut: „his long thin locs are tied back behind his head, face and forehead fully visible“;
-  mit Hut: „his long thin locs fall loosely to the sides under a straw hat“.
+- **Haar-Regel (Nutzer 14.11.2026: „mach wie du denkst“):** Normalfall offene lange Locs (wie in den Referenzen). Draußen mit
+  Strohhut, Locs offen darunter. Zurückgebunden nur ab und zu (Profilbild, extremes Close-up mit voll sichtbarer Narbe).
 - Profilbild seit 14.11.2026: dunkles Aura-Porträt ohne Hut (`assets/profil.jpg`).
 - Auch die meisten Reels/Fotos (mind. 2 von 3) in dieser Lichtstimmung; helle Szenen (Strand, Gasse, Reaktion im Alltag) nur als Abwechslung.
 
