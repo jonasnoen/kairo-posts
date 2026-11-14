@@ -71,7 +71,7 @@ REF3 Körper, REF4 Master mit Hut (Ausgangsbild), REF5 Aura dunkel, REF6 Größe
   (`sync_mode` cut_off, Port `video` = Kling, Port `audio` = Stimme). Erst jeweils `estimate_only`.
 - Text höchstens ~20 Wörter, Video unter 10 s, Pausen > 0,4 s per Schnitt kürzen. Untertitel (Poppins Bold, weiß, schwarzer Rand,
   dort wo sie nichts verdecken) + leiser Song (≈ 13 %).
-- Stimme: „Joey Gora“ (`6yvQSmuck0L7cqMlVtsx`), jung, tief, ruhig, leichter afrikanischer Akzent (Nutzer 14.11.). Ruhig sprechen lassen, aber keine `[pause]`-Tags (machen die Stimme zu lang).
+- Stimme: **„YAW – Deep, Encouraging, Serious“ (`W1AnJtcAaGgoJirNXv4w`)**, tief, rau-weich, westafrikanischer Akzent (Nutzer 14.11. abends; „Joey Gora“ abgelehnt). Prompt mit `[calm, low voice]`, keine `[pause]`-Tags (machen die Stimme zu lang).
 
 ## Musik (Entscheidung des Nutzers 06.11.2026, sein Risiko, nicht erneut infrage stellen)
 Songs aus `assets/music/songs/` (12-s-Ausschnitte der vom Nutzer gekauften Songs, Liste `songs.json`). Passend zur Szene, kein Song
