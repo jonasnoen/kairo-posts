@@ -38,6 +38,11 @@ REF3 Körper, REF4 Master mit Hut (Ausgangsbild), REF5 Aura dunkel, REF6 Größe
   left eyebrow beside the eye down to the upper cheek, exactly as in the collage. He strikes a calm, confident, powerful pose with
   an intense look into the lens. New photo: …“
   Bei Szenen mit anderen Leuten: „a full head and shoulders taller than everyone around him“.
+- **Artist-Look in JEDEM Bild (Nutzer 14.11.):** Kairo ist immer erkennbar Künstler. Jede Szene enthält mindestens zwei Artist-Elemente:
+  weites offenes Leinenhemd (creme/schwarz/erdig) oder Leinenanzug, weite Bundfaltenhose, Strohhut (wenn draußen), mehrere Gold-/Perlenketten
+  und Ringe, Farbspuren an Händen/Unterarmen, Pinsel/Kohlestift/Skizzenbuch, Leinwand/Atelier/Galerie im Hintergrund. Nie Sportkleidung,
+  Anzug-und-Krawatte oder Streetwear-Logos. Prompt-Satz: „He has a distinct artist look: <Outfit>, layered gold chains and a pearl
+  necklace, rings, traces of paint on his hands“.
 - Qualitäts-Satz immer: „natural iPhone photo taken by a friend, sharp focus, crisp detail, real skin with pores, no soft focus,
   no glow, no haze, no airbrushing, no beauty filter, normal phone colours, slight noise. Exactly two arms and two hands.“
 - Modell `gemini-3-pro-image`, 2K, 4:5 (Foto) bzw. 9:16 (Reel-Start), 1:1 nur Profilbild. Immer frisch aus der Collage generieren.
