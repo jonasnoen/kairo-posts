@@ -1,4 +1,4 @@
-# Strategie Kairo Nkemi (Entwurf 14.11.2026 – Start legt der Nutzer fest)
+# Strategie Kairo Nkemi (Start 14.11.2026, Budget 50 €/Monat)
 
 ## Wer er ist
 - **Kairo Nkemi**, virtueller Künstler, ca. 27, extrem groß (2,10 m), muskulös, bernsteinfarbene Augen, Narbe durch die linke Braue.
@@ -25,11 +25,11 @@
 - **K6 Style:** Leinen, Strohhut, Ketten in einer Gasse/am Meer, Walk Richtung Kamera, Leute drehen sich um.
 - **K7 Sprechvideo „Aura-Satz“:** tiefe ruhige Stimme, ≤ 15 Wörter, eine Frage am Ende.
 
-## Wochenplan (Vorschlag, gilt erst wenn `test.from` gesetzt ist)
+## Wochenplan (gilt ab 14.11.2026)
 | Mo | Di | Mi | Do | Fr | Sa | So |
 |---|---|---|---|---|---|---|
 | Reel | Vorrat-Foto | Sprechvideo | Vorrat-Foto | Reel | Reel | Vorrat-Foto |
-- 2 Sprechvideos/Woche sobald eine feste Stimme gewählt ist (bis dahin Mi = normales Reel).
+- 2 Sprechvideos/Woche (Mi + Sa), Stimme siehe CLAUDE.md.
 - Reels rotieren über K1/K2/K4/K5/K6, nie zweimal hintereinander dasselbe Format.
 - Vorrat aufbauen: bei jedem Reel-Lauf gute Restvarianten (4:5) in `posts/stock/`.
 
