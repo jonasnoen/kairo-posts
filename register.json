@@ -44,7 +44,17 @@
         "kling": "sdRi1nXRdHmNaMQclST4",
         "lipsync": "lcvbeANueLXnKLdw3HVd"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricool": {
+        "id": 428197524,
+        "uuid": "6418267142594120429",
+        "publishAt": "2026-11-14T19:30:00+01:00",
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "mediaCommit": "95fd3e9cec2aaa01368d8f526f879bea9011f640"
+      }
     }
   ],
   "stock": [],
