@@ -39,7 +39,7 @@ REF3 Körper, REF4 Master mit Hut (Ausgangsbild), REF5 Aura dunkel, REF6 Größe
   an intense look into the lens. New photo: …“
   Bei Szenen mit anderen Leuten: „a full head and shoulders taller than everyone around him“.
 - **Artist-Look in JEDEM Bild (Nutzer 14.11.):** Kairo ist immer erkennbar Künstler. Jede Szene enthält mindestens zwei Artist-Elemente:
-  weites offenes Leinenhemd (creme/schwarz/erdig) oder Leinenanzug, weite Bundfaltenhose, Strohhut (draußen fast immer; in dunklen Aura-Nahaufnahmen und Sprechvideos ohne Hut, siehe STRATEGIE.md), mehrere Gold-/Perlenketten
+  weites offenes Leinenhemd (creme/schwarz/erdig) oder Leinenanzug, weite Bundfaltenhose, Strohhut (draußen fast immer; in dunklen Aura-Nahaufnahmen und Sprechvideos ohne Hut. Haar-Regel: Locs zurückgebunden = ohne Hut, Locs offen zur Seite = mit Hut, siehe STRATEGIE.md), mehrere Gold-/Perlenketten
   und Ringe, Farbspuren an Händen/Unterarmen, Pinsel/Kohlestift/Skizzenbuch, Leinwand/Atelier/Galerie im Hintergrund. Nie Sportkleidung,
   Anzug-und-Krawatte oder Streetwear-Logos. Prompt-Satz: „He has a distinct artist look: <Outfit>, layered gold chains and a pearl
   necklace, rings, traces of paint on his hands“.
