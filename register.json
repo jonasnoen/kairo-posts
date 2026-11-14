@@ -1,67 +1,97 @@
 {
-  "test": {
-    "name": "4-Wochen-Start Kairo",
-    "from": "2026-11-14",
-    "to": "2026-12-11",
-    "details": "STRATEGIE.md",
-    "note": "Nutzer 14.11.: heute starten, 50 €/Monat"
+ "test": {
+  "name": "4-Wochen-Start Kairo",
+  "from": "2026-11-14",
+  "to": "2026-12-11",
+  "details": "STRATEGIE.md",
+  "note": "Nutzer 14.11.: heute starten, 50 €/Monat"
+ },
+ "budget": {
+  "monthlyUsd": 50
+ },
+ "referenceCosts": [
+  {
+   "date": "2026-11-13",
+   "what": "Charakter-Entwicklung, Referenzen, Narbe, Tests (Albino/Vitiligo), Größen-Referenz",
+   "costUsd": 10.0
   },
-  "budget": {
-    "monthlyUsd": 50
+  {
+   "date": "2026-11-14",
+   "what": "Profilbild 1:1 (Collage)",
+   "costUsd": 0.3,
+   "generationId": "qDkko1vmFb1Cv5s0Q5CG"
   },
-  "referenceCosts": [
-    {
-      "date": "2026-11-13",
-      "what": "Charakter-Entwicklung, Referenzen, Narbe, Tests (Albino/Vitiligo), Größen-Referenz",
-      "costUsd": 10.0
-    },
-    {
-      "date": "2026-11-14",
-      "what": "Profilbild 1:1 (Collage)",
-      "costUsd": 0.3,
-      "generationId": "qDkko1vmFb1Cv5s0Q5CG"
-    },
-    {
-      "date": "2026-11-14",
-      "what": "Stimmproben (4 Stimmen) – gewählt YAW",
-      "costUsd": 0.07
-    }
-  ],
-  "posts": [
-    {
-      "id": "K001",
-      "date": "2026-11-14",
-      "planFor": "2026-11-14",
-      "type": "reel",
-      "format": "K7 Sprechvideo Aura-Satz",
-      "scene": "dunkles Atelier, sitzt auf Hocker vor großem abstraktem Bild, offenes schwarzes Leinenhemd, Ketten, Seitenlicht",
-      "sceneTag": "atelier-dunkel",
-      "file": "posts/K001/reel.mp4",
-      "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
-      "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
-      "caption": "People stare. They always have. 👁️\nWhat's the first thing you noticed?\n\n#artist #aura #amber #art",
-      "tiktokTitle": "People stare. They always have.",
-      "costUsd": 2.44,
-      "costNote": "Startbild 0,30 + 2 Stimmen 0,04 + Kling 9 s 1,01 + Sync 3 1,09",
-      "generationIds": {
-        "start": "6miAkGv5cLfdGJaEeCPO",
-        "voice": "29Eoyyxsiy6JQhRqfq3d",
-        "kling": "sdRi1nXRdHmNaMQclST4",
-        "lipsync": "lcvbeANueLXnKLdw3HVd"
-      },
-      "status": "scheduled",
-      "metricool": {
-        "id": 428197524,
-        "uuid": "6418267142594120429",
-        "publishAt": "2026-11-14T19:30:00+01:00",
-        "networks": [
-          "instagram",
-          "tiktok"
-        ],
-        "mediaCommit": "95fd3e9cec2aaa01368d8f526f879bea9011f640"
-      }
-    }
-  ],
-  "stock": [],
-  "reelDrafts": []
+  {
+   "date": "2026-11-14",
+   "what": "Stimmproben (4 Stimmen) – gewählt YAW",
+   "costUsd": 0.07
+  },
+  {
+   "date": "2026-11-14",
+   "what": "Neues Profilbild Dark Aura (2 Varianten, genommen: Ausschnitt aus K002-Startbild)",
+   "costUsd": 0.61
+  }
+ ],
+ "posts": [
+  {
+   "id": "K001",
+   "date": "2026-11-14",
+   "planFor": "2026-11-14",
+   "type": "reel",
+   "format": "K7 Sprechvideo Aura-Satz",
+   "scene": "dunkles Atelier, sitzt auf Hocker vor großem abstraktem Bild, offenes schwarzes Leinenhemd, Ketten, Seitenlicht",
+   "sceneTag": "atelier-dunkel",
+   "file": "posts/K001/reel.mp4",
+   "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+   "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
+   "caption": "People stare. They always have. 👁️\nWhat's the first thing you noticed?\n\n#artist #aura #amber #art",
+   "tiktokTitle": "People stare. They always have.",
+   "costUsd": 2.44,
+   "costNote": "Startbild 0,30 + 2 Stimmen 0,04 + Kling 9 s 1,01 + Sync 3 1,09",
+   "generationIds": {
+    "start": "6miAkGv5cLfdGJaEeCPO",
+    "voice": "29Eoyyxsiy6JQhRqfq3d",
+    "kling": "sdRi1nXRdHmNaMQclST4",
+    "lipsync": "lcvbeANueLXnKLdw3HVd"
+   },
+   "status": "scheduled",
+   "metricool": {
+    "id": 428197524,
+    "uuid": "6418267142594120429",
+    "publishAt": "2026-11-14T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "95fd3e9cec2aaa01368d8f526f879bea9011f640"
+   }
+  },
+  {
+   "id": "K002",
+   "date": "2026-11-14",
+   "planFor": "2026-11-18",
+   "type": "reel",
+   "format": "K7 Sprechvideo Aura-Satz (Signatur-Stil dunkel)",
+   "scene": "dunkler Raum, schmales warmes Seitenlicht, offene Locs, offenes schwarzes Leinenhemd, Gold-/Perlenketten, Hand am Kinn mit Farbspuren",
+   "sceneTag": "dunkel-closeup",
+   "file": "posts/K002/reel.mp4",
+   "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+   "voice": "YAW (W1AnJtcAaGgoJirNXv4w)",
+   "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
+   "caption": "People stare. They always have. 👁️\nWhat did you notice first?\n\n#artist #aura #amber #art",
+   "tiktokTitle": "People stare. They always have.",
+   "costUsd": 1.97,
+   "costNote": "Startbild 0,30 + Kling 7 s 0,79 + Sync 3 0,88 (Stimme bei Stimmproben gezählt)",
+   "generationIds": {
+    "start": "J1NyuFRmLIkuqdnXxDHE",
+    "voice": "B12IioHJaJ764tuzec81",
+    "kling": "Q9HVSSxAv7xO6cGi9nej",
+    "lipsync": "mx7UdIVOsFUxIAm4brzh"
+   },
+   "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll.",
+   "status": "ready"
+  }
+ ],
+ "stock": [],
+ "reelDrafts": []
 }
