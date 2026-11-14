@@ -22,7 +22,31 @@
       "generationId": "qDkko1vmFb1Cv5s0Q5CG"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id": "K001",
+      "date": "2026-11-14",
+      "planFor": "2026-11-14",
+      "type": "reel",
+      "format": "K7 Sprechvideo Aura-Satz",
+      "scene": "dunkles Atelier, sitzt auf Hocker vor großem abstraktem Bild, offenes schwarzes Leinenhemd, Ketten, Seitenlicht",
+      "sceneTag": "atelier-dunkel",
+      "file": "posts/K001/reel.mp4",
+      "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+      "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
+      "caption": "People stare. They always have. 👁️\nWhat's the first thing you noticed?\n\n#artist #aura #amber #art",
+      "tiktokTitle": "People stare. They always have.",
+      "costUsd": 2.44,
+      "costNote": "Startbild 0,30 + 2 Stimmen 0,04 + Kling 9 s 1,01 + Sync 3 1,09",
+      "generationIds": {
+        "start": "6miAkGv5cLfdGJaEeCPO",
+        "voice": "29Eoyyxsiy6JQhRqfq3d",
+        "kling": "sdRi1nXRdHmNaMQclST4",
+        "lipsync": "lcvbeANueLXnKLdw3HVd"
+      },
+      "status": "ready"
+    }
+  ],
   "stock": [],
   "reelDrafts": []
 }
