@@ -6,6 +6,9 @@ beleuchtet, der Rest in tiefem Schatten, Bernstein-Augen leuchten, Narbe im Lich
 (offenes schwarzes/cremefarbenes Leinenhemd, Gold-/Perlenketten, Ringe, Farbspuren an den Händen).
 - **Alle Sprechvideos** in diesem Stil (Prompt: „in the exact mood of the dark close-up in the collage: a very dark room, almost black
   background, a single narrow warm light from the side so that only part of his face is lit and the rest falls into deep shadow“).
+- **Hut-Regel (Nutzer 14.11.2026):** Draußen und im Artist-Look (Atelier, Gasse, Meer) fast immer Strohhut als Erkennungszeichen.
+  Dunkle Aura-Nahaufnahmen und Sprechvideos OHNE Hut (oder höchstens schwarzer Hut weit nach hinten), damit Narbe und Augen im Licht bleiben.
+- Profilbild seit 14.11.2026: dunkles Aura-Porträt ohne Hut (`assets/profil.jpg`).
 - Auch die meisten Reels/Fotos (mind. 2 von 3) in dieser Lichtstimmung; helle Szenen (Strand, Gasse, Reaktion im Alltag) nur als Abwechslung.
 
 ## Wer er ist
