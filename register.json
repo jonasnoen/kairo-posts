@@ -110,7 +110,23 @@
         "foto": "HeniAOsBNFOonqHmcbzl",
         "node": "z097l52TTh4pckbuW6ML"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricool": {
+        "instagram": {
+          "id": 429100608,
+          "uuid": "8288547852144034168"
+        },
+        "tiktok": {
+          "id": 429100629,
+          "uuid": "619535836075344171"
+        },
+        "publishAt": "2026-11-15T19:30:00+01:00",
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "mediaCommit": "33e5871019698ac6795b0c2b6cc0351c6d0d9446"
+      }
     }
   ],
   "stock": [
