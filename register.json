@@ -127,6 +127,28 @@
         ],
         "mediaCommit": "33e5871019698ac6795b0c2b6cc0351c6d0d9446"
       }
+    },
+    {
+      "id": "K004",
+      "date": "2026-11-16",
+      "type": "reel",
+      "format": "K1 Reaktion auf Größe",
+      "scene": "sonnige Altstadtgasse, offener Espresso-Kiosk, Kairo (Strohhut, offenes cremefarbenes Leinenhemd, Bundfaltenhose, Ketten, Farbspuren) trinkt Espresso, zwei Erwachsene und Barista schauen staunend zu ihm hoch",
+      "sceneTag": "espresso-kiosk-hell",
+      "file": "posts/K004/reel.mp4",
+      "music": "assets/music/songs/myke-towers-lala.m4a",
+      "hook": "POV: you're in line / behind him",
+      "caption": "Just here for an espresso. ☕\nWhat would you do standing behind him?\n\n#artist #tall #aura #pov",
+      "tiktokTitle": "POV: you're in line behind him",
+      "costUsd": 1.17,
+      "costNote": "2 Startbilder Gemini 3 Pro 2K (Collage) 0,61 + Kling 3 Pro 5 s 0,56; 2. Variante → Vorrat S002",
+      "generationIds": {
+        "start": "1iwhqxnp1l5ZpT58pn7J",
+        "startNode": "cmdhe7yvyqUwhuyb5Fgz",
+        "kling": "vuWmzaV5H3B4sXCMyDRh",
+        "klingNode": "jwCvve8C9b4Eu1D4cPNt"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -138,6 +160,16 @@
       "scene": "Galerie nachts vor großem abstraktem Bild, Hand auf Leinwand, offenes schwarzes Leinenhemd, Ketten (gleiche Szene wie K003 – nicht direkt am 16.11. posten)",
       "format": "Signatur-Stil dunkel",
       "generationId": "ytJebYGeKGbKtwDaHQov",
+      "status": "stock"
+    },
+    {
+      "id": "S002",
+      "file": "posts/stock/S002.jpg",
+      "date": "2026-11-16",
+      "sceneTag": "espresso-kiosk-hell",
+      "scene": "Espresso-Kiosk in sonniger Altstadtgasse, Strohhut, offenes cremefarbenes Leinenhemd, Leute schauen staunend hoch (gleiche Szene wie K004 – nicht am 17.11. posten)",
+      "format": "K1 Reaktion auf Größe (hell)",
+      "generationId": "G81sKz1KCKHqdKHmRz8o",
       "status": "stock"
     }
   ],
