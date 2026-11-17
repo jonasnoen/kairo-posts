@@ -13,6 +13,21 @@ beleuchtet, der Rest in tiefem Schatten, Bernstein-Augen leuchten, Narbe im Lich
 - Profilbild seit 14.11.2026: dunkles Aura-Porträt, offene Locs, ohne Hut, Hand am Kinn (`assets/profil.jpg`).
 - Auch die meisten Reels/Fotos (mind. 2 von 3) in dieser Lichtstimmung; helle Szenen (Strand, Gasse, Reaktion im Alltag) nur als Abwechslung.
 
+## VORBILD-FORMAT (Nutzer 17.11.2026: Vorbild-Account @maestrojeanderome, 904K Follower)
+Analyse der letzten 12 Reels (vidIQ, 17.11.): Fast alles EIN Format – **Größen-Reaktion im Alltag**. Er (sehr groß) steht/läuft in einer
+normalen Szene, Leute daneben (meist Frauen: Kellnerin, Barista, Rezeptionistin, Security, Reisende) schauen zu ihm HOCH und reagieren
+überrascht/lachend. 15–18 s, Hook-Caption in Ich-Form mit Emojis. Top: Security am Bahnhof 66 Mio., Café 9 Mio., Spa 3,2 Mio.,
+Kellnerin mit Rechnung 1,7 Mio., Bahnsteig 1,4 Mio. Postet bis zu 4× am Tag.
+→ **Für Kairo: K1 „Reaktion auf Größe“ wird Hauptformat** (Mo/Fr/Sa-Reels), aber im Artist-Look (Leinen, Ketten, Farbspuren, Hut draußen),
+damit er sich unterscheidet. Szenen: Café-Theke, Kellnerin bringt die Rechnung, Hotel-Rezeption, Security/Bahnhof, Bahnsteig, Spa,
+Galerie-Eröffnung (Besucherinnen schauen hoch statt aufs Bild), Kunstbedarf-Laden. Erfundene Erwachsene (Mitte 20+), verschiedene
+Herkunft; Hautfarbe ist NIE das Thema, nur die Größe und seine Aura. Nichts Sexuelles, kein Körperkontakt außer Händedruck/Rechnung reichen.
+Hook-Text kurz, z. B. „She came to bring the bill… forgot to look up 📏“, „I only wanted a coffee ☕️“. Keine Behauptung, dass es echt passiert ist
+(KI-Label an). Nie Material, Gesicht oder Ton des Vorbild-Accounts verwenden, nur das Format.
+Technik: Startbild 9:16 mit „a full head and shoulders taller than everyone around him, the woman next to him tilts her head back and looks
+up at him in surprise“, dann Kling 10 s (≈ 1,12 $), Reaktion in der Bewegung („she looks up, her eyes widen, she laughs in surprise“).
+Sprechvideos im dunklen Aura-Stil bleiben (Mi + Sa → Sa wird Reaktions-Reel, Sprechvideo nur Mi).
+
 ## Wer er ist
 - **Kairo Nkemi**, virtueller Künstler, ca. 27, extrem groß (2,10 m), muskulös, bernsteinfarbene Augen, Narbe durch die linke Braue.
 - Offen virtuell (Bio „AI creator“, KI-Label bei jedem Post).
