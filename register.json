@@ -161,20 +161,20 @@
    }
   },
   {
-   "id": "K003",
+   "id": "K005",
    "date": "2026-11-17",
    "planFor": "2026-11-20",
    "type": "reel",
    "format": "K1 Reaktion auf Größe (Vorbild-Format)",
    "scene": "Café-Terrasse italienische Altstadt, blonde Kellnerin bringt die Rechnung, schaut hoch, lacht; Kairo im Artist-Look mit Strohhut, Skizzenbuch auf dem Tisch, Blick in die Kamera am Ende",
    "sceneTag": "cafe-kellnerin",
-   "file": "posts/K003/reel.mp4",
+   "file": "posts/K005/reel.mp4",
    "music": "assets/music/songs/ayra-starr-rush.m4a",
    "hook": "She came to bring the bill... / ...and forgot to look up",
    "caption": "She came to bring the bill… and forgot to look up 📏😂\nWould you have looked up too?\n\n#tall #reaction #artist #cafe #aura",
    "tiktokTitle": "She came to bring the bill… and forgot to look up 📏",
    "costUsd": 1.74,
-   "costNote": "2 Startbilder 0,61 + Kling 10 s 1,13 (zweites Startbild → Vorrat S001)",
+   "costNote": "2 Startbilder 0,61 + Kling 10 s 1,13 (zweites Startbild → Vorrat S003)",
    "generationIds": {
     "start": "B81CZreUkqvSzJjyOkdk",
     "kling": "PkvHYcBf2Ph9B5zbcjze"
@@ -204,8 +204,8 @@
    "status": "stock"
   },
   {
-   "id": "S001",
-   "file": "posts/stock/S001.jpg",
+   "id": "S003",
+   "file": "posts/stock/S003.jpg",
    "date": "2026-11-17",
    "scene": "Café-Terrasse Altstadt, Kellnerin (blond) schaut staunend zu ihm hoch, Strohhut, cremefarbenes Leinen, Skizzenbuch",
    "sceneTag": "cafe-kellnerin",
