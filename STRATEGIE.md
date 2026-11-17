@@ -20,8 +20,9 @@ normalen Szene, Leute daneben (meist Frauen: Kellnerin, Barista, Rezeptionistin,
 Kellnerin mit Rechnung 1,7 Mio., Bahnsteig 1,4 Mio. Postet bis zu 4× am Tag.
 → **Für Kairo: K1 „Reaktion auf Größe“ wird Hauptformat** (Mo/Fr/Sa-Reels), aber im Artist-Look (Leinen, Ketten, Farbspuren, Hut draußen),
 damit er sich unterscheidet. Szenen: Café-Theke, Kellnerin bringt die Rechnung, Hotel-Rezeption, Security/Bahnhof, Bahnsteig, Spa,
-Galerie-Eröffnung (Besucherinnen schauen hoch statt aufs Bild), Kunstbedarf-Laden. Erfundene Erwachsene (Mitte 20+), verschiedene
-Herkunft; Hautfarbe ist NIE das Thema, nur die Größe und seine Aura. Nichts Sexuelles, kein Körperkontakt außer Händedruck/Rechnung reichen.
+Galerie-Eröffnung (Besucherinnen schauen hoch statt aufs Bild), Kunstbedarf-Laden. Erfundene Erwachsene (Mitte 20+). **Nutzer 17.11.: die Frauen
+in den Szenen sind weiß** (heller Kontrast zu Kairo, dafür wurde er kreiert). Gegensatz nur visuell: die Reaktion gilt immer seiner
+Größe und Aura (Staunen, Lachen, Bewunderung), nie Angst, nie Witze oder Captions über Hautfarbe/Herkunft, kein „exotisch“-Framing. Nichts Sexuelles, kein Körperkontakt außer Händedruck/Rechnung reichen.
 Hook-Text kurz, z. B. „She came to bring the bill… forgot to look up 📏“, „I only wanted a coffee ☕️“. Keine Behauptung, dass es echt passiert ist
 (KI-Label an). Nie Material, Gesicht oder Ton des Vorbild-Accounts verwenden, nur das Format.
 Technik: Startbild 9:16 mit „a full head and shoulders taller than everyone around him, the woman next to him tilts her head back and looks
