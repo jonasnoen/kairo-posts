@@ -1,187 +1,218 @@
 {
-  "test": {
-    "name": "4-Wochen-Start Kairo",
-    "from": "2026-11-14",
-    "to": "2026-12-11",
-    "details": "STRATEGIE.md",
-    "note": "Nutzer 14.11.: heute starten, 50 €/Monat"
+ "test": {
+  "name": "4-Wochen-Start Kairo",
+  "from": "2026-11-14",
+  "to": "2026-12-11",
+  "details": "STRATEGIE.md",
+  "note": "Nutzer 14.11.: heute starten, 50 €/Monat"
+ },
+ "budget": {
+  "monthlyUsd": 50
+ },
+ "referenceCosts": [
+  {
+   "date": "2026-11-13",
+   "what": "Charakter-Entwicklung, Referenzen, Narbe, Tests (Albino/Vitiligo), Größen-Referenz",
+   "costUsd": 10.0
   },
-  "budget": {
-    "monthlyUsd": 50
+  {
+   "date": "2026-11-14",
+   "what": "Profilbild 1:1 (Collage)",
+   "costUsd": 0.3,
+   "generationId": "qDkko1vmFb1Cv5s0Q5CG"
   },
-  "referenceCosts": [
-    {
-      "date": "2026-11-13",
-      "what": "Charakter-Entwicklung, Referenzen, Narbe, Tests (Albino/Vitiligo), Größen-Referenz",
-      "costUsd": 10.0
+  {
+   "date": "2026-11-14",
+   "what": "Stimmproben (4 Stimmen) – gewählt YAW",
+   "costUsd": 0.07
+  },
+  {
+   "date": "2026-11-14",
+   "what": "Neues Profilbild Dark Aura (2 Varianten, genommen: Ausschnitt aus K002-Startbild)",
+   "costUsd": 0.61
+  }
+ ],
+ "posts": [
+  {
+   "id": "K001",
+   "date": "2026-11-14",
+   "planFor": "2026-11-14",
+   "type": "reel",
+   "format": "K7 Sprechvideo Aura-Satz",
+   "scene": "dunkles Atelier, sitzt auf Hocker vor großem abstraktem Bild, offenes schwarzes Leinenhemd, Ketten, Seitenlicht",
+   "sceneTag": "atelier-dunkel",
+   "file": "posts/K001/reel.mp4",
+   "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+   "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
+   "caption": "People stare. They always have. 👁️\nWhat's the first thing you noticed?\n\n#artist #aura #amber #art",
+   "tiktokTitle": "People stare. They always have.",
+   "costUsd": 2.44,
+   "costNote": "Startbild 0,30 + 2 Stimmen 0,04 + Kling 9 s 1,01 + Sync 3 1,09",
+   "generationIds": {
+    "start": "6miAkGv5cLfdGJaEeCPO",
+    "voice": "29Eoyyxsiy6JQhRqfq3d",
+    "kling": "sdRi1nXRdHmNaMQclST4",
+    "lipsync": "lcvbeANueLXnKLdw3HVd"
+   },
+   "status": "scheduled",
+   "metricool": {
+    "id": 428197524,
+    "uuid": "6418267142594120429",
+    "publishAt": "2026-11-14T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "95fd3e9cec2aaa01368d8f526f879bea9011f640"
+   }
+  },
+  {
+   "id": "K002",
+   "date": "2026-11-14",
+   "planFor": "2026-11-18",
+   "type": "reel",
+   "format": "K7 Sprechvideo Aura-Satz (Signatur-Stil dunkel)",
+   "scene": "dunkler Raum, schmales warmes Seitenlicht, offene Locs, offenes schwarzes Leinenhemd, Gold-/Perlenketten, Hand am Kinn mit Farbspuren",
+   "sceneTag": "dunkel-closeup",
+   "file": "posts/K002/reel.mp4",
+   "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+   "voice": "YAW (W1AnJtcAaGgoJirNXv4w)",
+   "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
+   "caption": "People stare. They always have. 👁️\nWhat did you notice first?\n\n#artist #aura #amber #art",
+   "tiktokTitle": "People stare. They always have.",
+   "costUsd": 1.97,
+   "costNote": "Startbild 0,30 + Kling 7 s 0,79 + Sync 3 0,88 (Stimme bei Stimmproben gezählt)",
+   "generationIds": {
+    "start": "J1NyuFRmLIkuqdnXxDHE",
+    "voice": "B12IioHJaJ764tuzec81",
+    "kling": "Q9HVSSxAv7xO6cGi9nej",
+    "lipsync": "mx7UdIVOsFUxIAm4brzh"
+   },
+   "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll.",
+   "status": "ready"
+  },
+  {
+   "id": "K003",
+   "date": "2026-11-15",
+   "type": "foto",
+   "format": "Vorrat-Foto (Signatur-Stil dunkel)",
+   "arm": "vorrat",
+   "scene": "leere Galerie nachts, steht neben eigenem großen abstrakten Bild (Ocker/Schwarz/Rostrot), schmales warmes Seitenlicht, offene Locs, offenes schwarzes Leinenhemd, Bundfaltenhose, Gold-/Perlenketten, Ringe, Farbspuren an den Händen",
+   "sceneTag": "galerie-dunkel",
+   "file": "posts/K003/foto.jpg",
+   "tiktokFile": "posts/K003/tiktok.mp4",
+   "music": "assets/music/songs/ayra-starr-rush.m4a",
+   "caption": "Every painting starts in the dark. 🖤\nWhat do you see in it?\n\n#artist #abstractart #aura #painter",
+   "tiktokTitle": "Every painting starts in the dark.",
+   "costUsd": 0.61,
+   "costNote": "2 Varianten Gemini 3 Pro 2K (Collage), 2. Variante → Vorrat S001",
+   "generationIds": {
+    "foto": "HeniAOsBNFOonqHmcbzl",
+    "node": "z097l52TTh4pckbuW6ML"
+   },
+   "status": "scheduled",
+   "metricool": {
+    "instagram": {
+     "id": 429100608,
+     "uuid": "8288547852144034168"
     },
-    {
-      "date": "2026-11-14",
-      "what": "Profilbild 1:1 (Collage)",
-      "costUsd": 0.3,
-      "generationId": "qDkko1vmFb1Cv5s0Q5CG"
+    "tiktok": {
+     "id": 429100629,
+     "uuid": "619535836075344171"
     },
-    {
-      "date": "2026-11-14",
-      "what": "Stimmproben (4 Stimmen) – gewählt YAW",
-      "costUsd": 0.07
-    },
-    {
-      "date": "2026-11-14",
-      "what": "Neues Profilbild Dark Aura (2 Varianten, genommen: Ausschnitt aus K002-Startbild)",
-      "costUsd": 0.61
-    }
-  ],
-  "posts": [
-    {
-      "id": "K001",
-      "date": "2026-11-14",
-      "planFor": "2026-11-14",
-      "type": "reel",
-      "format": "K7 Sprechvideo Aura-Satz",
-      "scene": "dunkles Atelier, sitzt auf Hocker vor großem abstraktem Bild, offenes schwarzes Leinenhemd, Ketten, Seitenlicht",
-      "sceneTag": "atelier-dunkel",
-      "file": "posts/K001/reel.mp4",
-      "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
-      "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
-      "caption": "People stare. They always have. 👁️\nWhat's the first thing you noticed?\n\n#artist #aura #amber #art",
-      "tiktokTitle": "People stare. They always have.",
-      "costUsd": 2.44,
-      "costNote": "Startbild 0,30 + 2 Stimmen 0,04 + Kling 9 s 1,01 + Sync 3 1,09",
-      "generationIds": {
-        "start": "6miAkGv5cLfdGJaEeCPO",
-        "voice": "29Eoyyxsiy6JQhRqfq3d",
-        "kling": "sdRi1nXRdHmNaMQclST4",
-        "lipsync": "lcvbeANueLXnKLdw3HVd"
-      },
-      "status": "scheduled",
-      "metricool": {
-        "id": 428197524,
-        "uuid": "6418267142594120429",
-        "publishAt": "2026-11-14T19:30:00+01:00",
-        "networks": [
-          "instagram",
-          "tiktok"
-        ],
-        "mediaCommit": "95fd3e9cec2aaa01368d8f526f879bea9011f640"
-      }
-    },
-    {
-      "id": "K002",
-      "date": "2026-11-14",
-      "planFor": "2026-11-18",
-      "type": "reel",
-      "format": "K7 Sprechvideo Aura-Satz (Signatur-Stil dunkel)",
-      "scene": "dunkler Raum, schmales warmes Seitenlicht, offene Locs, offenes schwarzes Leinenhemd, Gold-/Perlenketten, Hand am Kinn mit Farbspuren",
-      "sceneTag": "dunkel-closeup",
-      "file": "posts/K002/reel.mp4",
-      "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
-      "voice": "YAW (W1AnJtcAaGgoJirNXv4w)",
-      "spoken": "People stare. They always have. I used to hide it. Now I let them look, and say nothing.",
-      "caption": "People stare. They always have. 👁️\nWhat did you notice first?\n\n#artist #aura #amber #art",
-      "tiktokTitle": "People stare. They always have.",
-      "costUsd": 1.97,
-      "costNote": "Startbild 0,30 + Kling 7 s 0,79 + Sync 3 0,88 (Stimme bei Stimmproben gezählt)",
-      "generationIds": {
-        "start": "J1NyuFRmLIkuqdnXxDHE",
-        "voice": "B12IioHJaJ764tuzec81",
-        "kling": "Q9HVSSxAv7xO6cGi9nej",
-        "lipsync": "mx7UdIVOsFUxIAm4brzh"
-      },
-      "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll.",
-      "status": "ready"
-    },
-    {
-      "id": "K003",
-      "date": "2026-11-15",
-      "type": "foto",
-      "format": "Vorrat-Foto (Signatur-Stil dunkel)",
-      "arm": "vorrat",
-      "scene": "leere Galerie nachts, steht neben eigenem großen abstrakten Bild (Ocker/Schwarz/Rostrot), schmales warmes Seitenlicht, offene Locs, offenes schwarzes Leinenhemd, Bundfaltenhose, Gold-/Perlenketten, Ringe, Farbspuren an den Händen",
-      "sceneTag": "galerie-dunkel",
-      "file": "posts/K003/foto.jpg",
-      "tiktokFile": "posts/K003/tiktok.mp4",
-      "music": "assets/music/songs/ayra-starr-rush.m4a",
-      "caption": "Every painting starts in the dark. 🖤\nWhat do you see in it?\n\n#artist #abstractart #aura #painter",
-      "tiktokTitle": "Every painting starts in the dark.",
-      "costUsd": 0.61,
-      "costNote": "2 Varianten Gemini 3 Pro 2K (Collage), 2. Variante → Vorrat S001",
-      "generationIds": {
-        "foto": "HeniAOsBNFOonqHmcbzl",
-        "node": "z097l52TTh4pckbuW6ML"
-      },
-      "status": "scheduled",
-      "metricool": {
-        "instagram": {
-          "id": 429100608,
-          "uuid": "8288547852144034168"
-        },
-        "tiktok": {
-          "id": 429100629,
-          "uuid": "619535836075344171"
-        },
-        "publishAt": "2026-11-15T19:30:00+01:00",
-        "networks": [
-          "instagram",
-          "tiktok"
-        ],
-        "mediaCommit": "33e5871019698ac6795b0c2b6cc0351c6d0d9446"
-      }
-    },
-    {
-      "id": "K004",
-      "date": "2026-11-16",
-      "type": "reel",
-      "format": "K1 Reaktion auf Größe",
-      "scene": "sonnige Altstadtgasse, offener Espresso-Kiosk, Kairo (Strohhut, offenes cremefarbenes Leinenhemd, Bundfaltenhose, Ketten, Farbspuren) trinkt Espresso, zwei Erwachsene und Barista schauen staunend zu ihm hoch",
-      "sceneTag": "espresso-kiosk-hell",
-      "file": "posts/K004/reel.mp4",
-      "music": "assets/music/songs/myke-towers-lala.m4a",
-      "hook": "POV: you're in line / behind him",
-      "caption": "Just here for an espresso. ☕\nWhat would you do standing behind him?\n\n#artist #tall #aura #pov",
-      "tiktokTitle": "POV: you're in line behind him",
-      "costUsd": 1.17,
-      "costNote": "2 Startbilder Gemini 3 Pro 2K (Collage) 0,61 + Kling 3 Pro 5 s 0,56; 2. Variante → Vorrat S002",
-      "generationIds": {
-        "start": "1iwhqxnp1l5ZpT58pn7J",
-        "startNode": "cmdhe7yvyqUwhuyb5Fgz",
-        "kling": "vuWmzaV5H3B4sXCMyDRh",
-        "klingNode": "jwCvve8C9b4Eu1D4cPNt"
-      },
-      "status": "scheduled",
-      "metricool": {
-        "id": 430426075,
-        "uuid": "-5324795206591034390",
-        "publishAt": "2026-11-16T19:30:00+01:00",
-        "networks": [
-          "instagram",
-          "tiktok"
-        ],
-        "mediaCommit": "1932cf3def889afc67216cf502513cacc61e23f9"
-      }
-    }
-  ],
-  "stock": [
-    {
-      "id": "S001",
-      "file": "posts/stock/S001.jpg",
-      "date": "2026-11-15",
-      "sceneTag": "galerie-dunkel",
-      "scene": "Galerie nachts vor großem abstraktem Bild, Hand auf Leinwand, offenes schwarzes Leinenhemd, Ketten (gleiche Szene wie K003 – nicht direkt am 16.11. posten)",
-      "format": "Signatur-Stil dunkel",
-      "generationId": "ytJebYGeKGbKtwDaHQov",
-      "status": "stock"
-    },
-    {
-      "id": "S002",
-      "file": "posts/stock/S002.jpg",
-      "date": "2026-11-16",
-      "sceneTag": "espresso-kiosk-hell",
-      "scene": "Espresso-Kiosk in sonniger Altstadtgasse, Strohhut, offenes cremefarbenes Leinenhemd, Leute schauen staunend hoch (gleiche Szene wie K004 – nicht am 17.11. posten)",
-      "format": "K1 Reaktion auf Größe (hell)",
-      "generationId": "G81sKz1KCKHqdKHmRz8o",
-      "status": "stock"
-    }
-  ],
-  "reelDrafts": []
+    "publishAt": "2026-11-15T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "33e5871019698ac6795b0c2b6cc0351c6d0d9446"
+   }
+  },
+  {
+   "id": "K004",
+   "date": "2026-11-16",
+   "type": "reel",
+   "format": "K1 Reaktion auf Größe",
+   "scene": "sonnige Altstadtgasse, offener Espresso-Kiosk, Kairo (Strohhut, offenes cremefarbenes Leinenhemd, Bundfaltenhose, Ketten, Farbspuren) trinkt Espresso, zwei Erwachsene und Barista schauen staunend zu ihm hoch",
+   "sceneTag": "espresso-kiosk-hell",
+   "file": "posts/K004/reel.mp4",
+   "music": "assets/music/songs/myke-towers-lala.m4a",
+   "hook": "POV: you're in line / behind him",
+   "caption": "Just here for an espresso. ☕\nWhat would you do standing behind him?\n\n#artist #tall #aura #pov",
+   "tiktokTitle": "POV: you're in line behind him",
+   "costUsd": 1.17,
+   "costNote": "2 Startbilder Gemini 3 Pro 2K (Collage) 0,61 + Kling 3 Pro 5 s 0,56; 2. Variante → Vorrat S002",
+   "generationIds": {
+    "start": "1iwhqxnp1l5ZpT58pn7J",
+    "startNode": "cmdhe7yvyqUwhuyb5Fgz",
+    "kling": "vuWmzaV5H3B4sXCMyDRh",
+    "klingNode": "jwCvve8C9b4Eu1D4cPNt"
+   },
+   "status": "scheduled",
+   "metricool": {
+    "id": 430426075,
+    "uuid": "-5324795206591034390",
+    "publishAt": "2026-11-16T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "1932cf3def889afc67216cf502513cacc61e23f9"
+   }
+  },
+  {
+   "id": "K003",
+   "date": "2026-11-17",
+   "planFor": "2026-11-20",
+   "type": "reel",
+   "format": "K1 Reaktion auf Größe (Vorbild-Format)",
+   "scene": "Café-Terrasse italienische Altstadt, blonde Kellnerin bringt die Rechnung, schaut hoch, lacht; Kairo im Artist-Look mit Strohhut, Skizzenbuch auf dem Tisch, Blick in die Kamera am Ende",
+   "sceneTag": "cafe-kellnerin",
+   "file": "posts/K003/reel.mp4",
+   "music": "assets/music/songs/ayra-starr-rush.m4a",
+   "hook": "She came to bring the bill... / ...and forgot to look up",
+   "caption": "She came to bring the bill… and forgot to look up 📏😂\nWould you have looked up too?\n\n#tall #reaction #artist #cafe #aura",
+   "tiktokTitle": "She came to bring the bill… and forgot to look up 📏",
+   "costUsd": 1.74,
+   "costNote": "2 Startbilder 0,61 + Kling 10 s 1,13 (zweites Startbild → Vorrat S001)",
+   "generationIds": {
+    "start": "B81CZreUkqvSzJjyOkdk",
+    "kling": "PkvHYcBf2Ph9B5zbcjze"
+   },
+   "status": "ready"
+  }
+ ],
+ "stock": [
+  {
+   "id": "S001",
+   "file": "posts/stock/S001.jpg",
+   "date": "2026-11-15",
+   "sceneTag": "galerie-dunkel",
+   "scene": "Galerie nachts vor großem abstraktem Bild, Hand auf Leinwand, offenes schwarzes Leinenhemd, Ketten (gleiche Szene wie K003 – nicht direkt am 16.11. posten)",
+   "format": "Signatur-Stil dunkel",
+   "generationId": "ytJebYGeKGbKtwDaHQov",
+   "status": "stock"
+  },
+  {
+   "id": "S002",
+   "file": "posts/stock/S002.jpg",
+   "date": "2026-11-16",
+   "sceneTag": "espresso-kiosk-hell",
+   "scene": "Espresso-Kiosk in sonniger Altstadtgasse, Strohhut, offenes cremefarbenes Leinenhemd, Leute schauen staunend hoch (gleiche Szene wie K004 – nicht am 17.11. posten)",
+   "format": "K1 Reaktion auf Größe (hell)",
+   "generationId": "G81sKz1KCKHqdKHmRz8o",
+   "status": "stock"
+  },
+  {
+   "id": "S001",
+   "file": "posts/stock/S001.jpg",
+   "date": "2026-11-17",
+   "scene": "Café-Terrasse Altstadt, Kellnerin (blond) schaut staunend zu ihm hoch, Strohhut, cremefarbenes Leinen, Skizzenbuch",
+   "sceneTag": "cafe-kellnerin",
+   "format": "K1",
+   "generationId": "8MT4yS3OkNbPAszAAt6n",
+   "status": "stock"
+  }
+ ],
+ "reelDrafts": []
 }
