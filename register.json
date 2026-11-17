@@ -242,7 +242,23 @@
    "tiktokTitle": "I don't sign my paintings. My hands already did.",
    "costUsd": 0.0,
    "costNote": "Vorrat-Bild S001 (Kosten bereits bei K003), Zoom-Video per ffmpeg",
-   "status": "sending"
+   "status": "scheduled",
+   "metricool": {
+    "instagram": {
+     "id": 431790644,
+     "uuid": "-8555143418182088905"
+    },
+    "tiktok": {
+     "id": 431790678,
+     "uuid": "8143048295529663637"
+    },
+    "publishAt": "2026-11-17T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "5a49892b1760e82179fc0805428702c1397fc349"
+   }
   }
  ],
  "stock": [
