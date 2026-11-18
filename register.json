@@ -111,8 +111,8 @@
     "kling": "Q9HVSSxAv7xO6cGi9nej",
     "lipsync": "mx7UdIVOsFUxIAm4brzh"
    },
-   "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll.",
-   "status": "ready"
+   "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll. | 18.11.: unbeaufsichtigt nach planFor gepostet (Text gleich wie K001, das nur 1 TikTok-Aufruf hatte).",
+   "status": "sending"
   },
   {
    "id": "K003",
@@ -203,6 +203,29 @@
      "tiktok"
     ],
     "mediaCommit": "1932cf3def889afc67216cf502513cacc61e23f9"
+   },
+   "stats": {
+    "h48": {
+     "collectedAt": "2026-11-18T18:40+01:00",
+     "note": "erhoben nach ca. 47 h",
+     "instagram": {
+      "views": 182,
+      "reach": 122,
+      "avgWatchTimeS": 4.311,
+      "skipRate": 46.6,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0
+     },
+     "tiktok": {
+      "views": 969,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "reach": null
+     }
+    }
    }
   },
   {
