@@ -112,7 +112,17 @@
     "lipsync": "mx7UdIVOsFUxIAm4brzh"
    },
    "note": "Gleicher Text wie K001 (alte Stimme), jetzt mit YAW im Signatur-Stil – vor dem Posten mit Nutzer klären, ob Text bleiben soll. | 18.11.: unbeaufsichtigt nach planFor gepostet (Text gleich wie K001, das nur 1 TikTok-Aufruf hatte).",
-   "status": "sending"
+   "status": "scheduled",
+   "metricool": {
+    "id": 433163902,
+    "uuid": "-4284010357907633806",
+    "publishAt": "2026-11-18T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "9e9e905b4c6b066b6590c6afd8715eaba67cc88f"
+   }
   },
   {
    "id": "K003",
