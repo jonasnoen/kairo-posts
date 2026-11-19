@@ -331,7 +331,23 @@
    "tiktokTitle": "They came for coffee. Stayed for the view. ☕📏",
    "costUsd": 0.0,
    "costNote": "Vorrat-Bild S002 (Kosten bereits bei K004), Zoom-Video per ffmpeg",
-   "status": "sending"
+   "status": "scheduled",
+   "metricool": {
+    "instagram": {
+     "id": 434532021,
+     "uuid": "-4747311945030218238"
+    },
+    "tiktok": {
+     "id": 434532054,
+     "uuid": "-727674041161006949"
+    },
+    "publishAt": "2026-11-19T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "7ad694402d799804f8ac0228479ce716fa4e40a1"
+   }
   }
  ],
  "stock": [
