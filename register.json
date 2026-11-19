@@ -291,7 +291,47 @@
      "tiktok"
     ],
     "mediaCommit": "5a49892b1760e82179fc0805428702c1397fc349"
+   },
+   "stats": {
+    "h48": {
+     "collectedAt": "2026-11-19T18:40+01:00",
+     "note": "erhoben nach ca. 47 h",
+     "instagram": {
+      "views": 0,
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "follows": 0
+     },
+     "tiktok": {
+      "views": 251,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "reach": null
+     }
+    }
    }
+  },
+  {
+   "id": "K007",
+   "date": "2026-11-19",
+   "type": "foto",
+   "format": "Vorrat-Foto (K1 Reaktion auf Größe, hell)",
+   "arm": "vorrat",
+   "scene": "Espresso-Kiosk in sonniger Altstadtgasse, Strohhut, offenes cremefarbenes Leinenhemd, Ketten, Farbspuren, drei Erwachsene schauen staunend zu ihm hoch",
+   "sceneTag": "espresso-kiosk-hell",
+   "stockId": "S002",
+   "file": "posts/K007/foto.jpg",
+   "tiktokFile": "posts/K007/tiktok.mp4",
+   "music": "assets/music/songs/justin-bieber-peaches-ft-daniel-caesar-giveon.m4a",
+   "caption": "They came for coffee. Stayed for the view. ☕📏\nWhat would you say to him?\n\n#tall #artist #aura #espresso",
+   "tiktokTitle": "They came for coffee. Stayed for the view. ☕📏",
+   "costUsd": 0.0,
+   "costNote": "Vorrat-Bild S002 (Kosten bereits bei K004), Zoom-Video per ffmpeg",
+   "status": "sending"
   }
  ],
  "stock": [
@@ -314,7 +354,8 @@
    "scene": "Espresso-Kiosk in sonniger Altstadtgasse, Strohhut, offenes cremefarbenes Leinenhemd, Leute schauen staunend hoch (gleiche Szene wie K004 – nicht am 17.11. posten)",
    "format": "K1 Reaktion auf Größe (hell)",
    "generationId": "G81sKz1KCKHqdKHmRz8o",
-   "status": "stock"
+   "status": "used",
+   "usedBy": "K007"
   },
   {
    "id": "S003",
