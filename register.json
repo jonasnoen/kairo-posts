@@ -276,7 +276,17 @@
     "start": "B81CZreUkqvSzJjyOkdk",
     "kling": "PkvHYcBf2Ph9B5zbcjze"
    },
-   "status": "sending"
+   "status": "scheduled",
+   "metricool": {
+    "id": 435870758,
+    "uuid": "211047495032194754",
+    "publishAt": "2026-11-20T19:30:00+01:00",
+    "networks": [
+     "instagram",
+     "tiktok"
+    ],
+    "mediaCommit": "afdb96737423e429ed0eeeffc193b17dce08f910"
+   }
   },
   {
    "id": "K006",
