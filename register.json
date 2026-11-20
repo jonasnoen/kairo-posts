@@ -122,6 +122,25 @@
      "tiktok"
     ],
     "mediaCommit": "9e9e905b4c6b066b6590c6afd8715eaba67cc88f"
+   },
+   "stats": {
+    "h48": {
+     "collectedAt": "2026-11-20T18:40+01:00",
+     "note": "erhoben nach ca. 47 h",
+     "instagram": {
+      "views": 143,
+      "reach": 99,
+      "avgWatchTimeS": 4.303,
+      "skipRate": 53.9
+     },
+     "tiktok": {
+      "views": 744,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "reach": null
+     }
+    }
    }
   },
   {
@@ -257,7 +276,7 @@
     "start": "B81CZreUkqvSzJjyOkdk",
     "kling": "PkvHYcBf2Ph9B5zbcjze"
    },
-   "status": "ready"
+   "status": "sending"
   },
   {
    "id": "K006",
