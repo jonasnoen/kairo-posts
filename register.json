@@ -394,7 +394,23 @@
       "tiktokTitle": "She asked for my order. I let her finish looking first. 📏",
       "costUsd": 0.0,
       "costNote": "Vorrat-Bild S003 (Kosten bereits bei K005), Zoom-Video per ffmpeg",
-      "status": "sending"
+      "status": "scheduled",
+      "metricool": {
+        "instagram": {
+          "id": 440639434,
+          "uuid": "-7002229285914849404"
+        },
+        "tiktok": {
+          "id": 440639463,
+          "uuid": "-6750341625575945238"
+        },
+        "publishAt": "2026-11-24T19:30:00+01:00",
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "mediaCommit": "948a60474e9fcb3a9dcf5432ef30214610cc8d5c"
+      }
     }
   ],
   "stock": [
@@ -428,7 +444,8 @@
       "sceneTag": "cafe-kellnerin",
       "format": "K1",
       "generationId": "8MT4yS3OkNbPAszAAt6n",
-      "status": "stock"
+      "status": "used",
+      "usedBy": "K008"
     }
   ],
   "reelDrafts": []
