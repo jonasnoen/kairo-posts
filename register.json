@@ -86,6 +86,21 @@
             "shares": 0,
             "reach": null
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 240 h (kumuliert)",
+          "tiktok": {
+            "views": 1,
+            "likes": 0,
+            "comments": 0
+          },
+          "instagram": {
+            "views": 0,
+            "reach": 0,
+            "avgWatchTimeS": 9.664,
+            "skipRate": null
+          }
         }
       }
     },
@@ -199,6 +214,15 @@
             "shares": 0,
             "reach": null
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 215 h (kumuliert); IG-Fotowerte nicht abgefragt",
+          "tiktok": {
+            "views": 1,
+            "likes": 0,
+            "comments": 0
+          }
         }
       }
     },
@@ -254,6 +278,21 @@
             "shares": 0,
             "reach": null
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 191 h (kumuliert)",
+          "tiktok": {
+            "views": 969,
+            "likes": 3,
+            "comments": 0
+          },
+          "instagram": {
+            "views": 184,
+            "reach": 123,
+            "avgWatchTimeS": 4.327,
+            "skipRate": 46.2
+          }
         }
       }
     },
@@ -286,6 +325,23 @@
           "tiktok"
         ],
         "mediaCommit": "afdb96737423e429ed0eeeffc193b17dce08f910"
+      },
+      "stats": {
+        "h48": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 95 h (Läufe 21.–23.11. ohne Auswertung)",
+          "tiktok": {
+            "views": 257,
+            "likes": 3,
+            "comments": 0
+          },
+          "instagram": {
+            "views": 133,
+            "reach": 115,
+            "avgWatchTimeS": 4.581,
+            "skipRate": 52.2
+          }
+        }
       }
     },
     {
@@ -341,6 +397,15 @@
             "shares": 0,
             "reach": null
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 167 h (kumuliert); IG-Fotowerte nicht abgefragt",
+          "tiktok": {
+            "views": 251,
+            "likes": 2,
+            "comments": 0
+          }
         }
       }
     },
@@ -376,6 +441,17 @@
           "tiktok"
         ],
         "mediaCommit": "7ad694402d799804f8ac0228479ce716fa4e40a1"
+      },
+      "stats": {
+        "h48": {
+          "collectedAt": "2026-11-24T18:40+01:00",
+          "note": "erhoben nach ca. 119 h (Läufe 21.–23.11. ohne Auswertung); IG-Fotowerte nicht abgefragt",
+          "tiktok": {
+            "views": 238,
+            "likes": 0,
+            "comments": 0
+          }
+        }
       }
     },
     {
