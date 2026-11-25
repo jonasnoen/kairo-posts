@@ -155,6 +155,21 @@
             "shares": 0,
             "reach": null
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-25T18:40+01:00",
+          "note": "erhoben nach ca. 167 h (kumuliert)",
+          "tiktok": {
+            "views": 744,
+            "likes": 1,
+            "comments": 0
+          },
+          "instagram": {
+            "views": 143,
+            "reach": 99,
+            "avgWatchTimeS": 4.325,
+            "skipRate": 53.9
+          }
         }
       }
     },
@@ -487,6 +502,31 @@
         ],
         "mediaCommit": "948a60474e9fcb3a9dcf5432ef30214610cc8d5c"
       }
+    },
+    {
+      "id": "K009",
+      "date": "2026-11-25",
+      "type": "reel",
+      "format": "K3 Die Narbe (Sprechvideo, Signatur-Stil dunkel)",
+      "scene": "Atelier nachts, dunkle Leinwand im Hintergrund, schmales warmes Seitenlicht auf der Narbenseite, offene Locs, offenes cremefarbenes Leinenhemd, Gold-/Perlenketten, Pinsel in der Hand mit Ockerfarbe an den Fingern",
+      "sceneTag": "atelier-dunkel-narbe",
+      "file": "posts/K009/reel.mp4",
+      "music": "assets/music/songs/karol-g-provenza.m4a",
+      "voice": "YAW (W1AnJtcAaGgoJirNXv4w)",
+      "spoken": "Everyone asks about the scar. Nobody asks about the paintings. Go on. Ask me.",
+      "hook": "The scar has a story.",
+      "caption": "Everyone asks about the scar. Nobody asks about the paintings. 🎨\nSo go on – what do you want to ask me?\n\n#artist #aura #painter #scar",
+      "tiktokTitle": "Everyone asks about the scar. Nobody asks about the paintings.",
+      "costUsd": 2.09,
+      "costNote": "2 Startbilder 0,61 + 2 Stimmen 0,03 + Kling 6 s 0,68 + Sync 3 0,77; 2. Startbild → Vorrat S004",
+      "generationIds": {
+        "start": "eC9J3UZ8D6zIO2Lx3pKZ",
+        "startNode": "ocoT0KAuBCBFJEpI2OO4",
+        "voice": "58G6uMQYzYfeSYnLWCN7",
+        "kling": "4AVFqhmt0C1forOFLjEQ",
+        "lipsync": "6UfLasSodcmZr6Igzx7P"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -522,6 +562,16 @@
       "generationId": "8MT4yS3OkNbPAszAAt6n",
       "status": "used",
       "usedBy": "K008"
+    },
+    {
+      "id": "S004",
+      "file": "posts/stock/S004.jpg",
+      "date": "2026-11-25",
+      "sceneTag": "atelier-dunkel-narbe",
+      "scene": "Atelier nachts, Seitenlicht auf der Narbe, offene Locs, cremefarbenes Leinenhemd, Ketten, Pinsel in der Hand (gleiche Szene wie K009 – nicht am 26.11. posten)",
+      "format": "Signatur-Stil dunkel",
+      "generationId": "wPj5G5jt7yWCauOjZknL",
+      "status": "stock"
     }
   ],
   "reelDrafts": []
