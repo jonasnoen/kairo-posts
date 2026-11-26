@@ -580,7 +580,23 @@
         "foto": "7u6I2PptLYrDFelp756J",
         "node": "8IY04Qa8aYPz7MN2xiTi"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricool": {
+        "instagram": {
+          "id": 443439569,
+          "uuid": "-2282258840133810575"
+        },
+        "tiktok": {
+          "id": 443439603,
+          "uuid": "-4308021337579567075"
+        },
+        "publishAt": "2026-11-26T19:30:00+01:00",
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "mediaCommit": "7e22cd30221c7b1600c075204a8818fa4d3d2e6b"
+      }
     }
   ],
   "stock": [
