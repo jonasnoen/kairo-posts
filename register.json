@@ -466,6 +466,16 @@
             "likes": 0,
             "comments": 0
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-26T18:40+01:00",
+          "note": "erhoben nach ca. 167 h (kumuliert); IG-Fotowerte nicht abgefragt",
+          "tiktok": {
+            "views": 238,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          }
         }
       }
     },
@@ -501,6 +511,19 @@
           "tiktok"
         ],
         "mediaCommit": "948a60474e9fcb3a9dcf5432ef30214610cc8d5c"
+      },
+      "stats": {
+        "h48": {
+          "collectedAt": "2026-11-26T18:40+01:00",
+          "note": "erhoben nach ca. 48 h; IG-Fotowerte nicht abgefragt",
+          "tiktok": {
+            "views": 201,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "reach": null
+          }
+        }
       }
     },
     {
@@ -537,6 +560,27 @@
         ],
         "mediaCommit": "f78484957fa2455f5964b10b52734b33c1a42ff4"
       }
+    },
+    {
+      "id": "K010",
+      "date": "2026-11-26",
+      "type": "foto",
+      "format": "Vorrat-Foto (Signatur-Stil dunkel)",
+      "arm": "vorrat",
+      "scene": "altes Atelier nachts am offenen hohen Fenster, Straßenlaterne als warmes Seitenlicht, Skizzenbuch mit Kohle-Porträt, offene Locs, offenes cremefarbenes Leinenhemd, dunkle Bundfaltenhose, Gold-/Perlenketten, Ringe, Kohle-/Farbspuren an den Händen",
+      "sceneTag": "fenster-nacht-skizze",
+      "file": "posts/K010/foto.jpg",
+      "tiktokFile": "posts/K010/tiktok.mp4",
+      "music": "assets/music/songs/bad-bunny-dtmf.m4a",
+      "caption": "I draw strangers at night. They never know. ✏️\nWould you want to see yours?\n\n#artist #sketch #aura #charcoal",
+      "tiktokTitle": "I draw strangers at night. They never know.",
+      "costUsd": 0.61,
+      "costNote": "2 Varianten Gemini 3 Pro 2K (Collage) je 0,30; 2. Variante → Vorrat S005",
+      "generationIds": {
+        "foto": "7u6I2PptLYrDFelp756J",
+        "node": "8IY04Qa8aYPz7MN2xiTi"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -581,6 +625,16 @@
       "scene": "Atelier nachts, Seitenlicht auf der Narbe, offene Locs, cremefarbenes Leinenhemd, Ketten, Pinsel in der Hand (gleiche Szene wie K009 – nicht am 26.11. posten)",
       "format": "Signatur-Stil dunkel",
       "generationId": "wPj5G5jt7yWCauOjZknL",
+      "status": "stock"
+    },
+    {
+      "id": "S005",
+      "file": "posts/stock/S005.jpg",
+      "date": "2026-11-26",
+      "sceneTag": "fenster-nacht-skizze",
+      "scene": "altes Atelier nachts am offenen Fenster, Skizzenbuch mit Kohle-Porträt, cremefarbenes Leinenhemd, Ketten, offene Locs (gleiche Szene wie K010 – nicht am 27.11. posten; Narbe nur auf der Wange, Braue weniger sichtbar)",
+      "format": "Signatur-Stil dunkel",
+      "generationId": "qRf2FwJSLHu3BLbpKFRS",
       "status": "stock"
     }
   ],
