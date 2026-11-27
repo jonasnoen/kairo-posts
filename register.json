@@ -356,6 +356,21 @@
             "avgWatchTimeS": 4.581,
             "skipRate": 52.2
           }
+        },
+        "d7": {
+          "collectedAt": "2026-11-27T18:40+01:00",
+          "note": "erhoben nach ca. 167 h (kumuliert)",
+          "instagram": {
+            "views": 133,
+            "reach": 115,
+            "avgWatchTimeS": 4.581,
+            "skipRate": 52.2
+          },
+          "tiktok": {
+            "views": 257,
+            "likes": 3,
+            "comments": 0
+          }
         }
       }
     },
@@ -559,6 +574,23 @@
           "tiktok"
         ],
         "mediaCommit": "f78484957fa2455f5964b10b52734b33c1a42ff4"
+      },
+      "stats": {
+        "h48": {
+          "collectedAt": "2026-11-27T18:40+01:00",
+          "note": "erhoben nach ca. 47 h",
+          "instagram": {
+            "views": 8,
+            "reach": 4,
+            "avgWatchTimeS": 5.174,
+            "skipRate": 40.0
+          },
+          "tiktok": {
+            "views": 234,
+            "likes": 0,
+            "comments": 0
+          }
+        }
       }
     },
     {
@@ -597,6 +629,28 @@
         ],
         "mediaCommit": "7e22cd30221c7b1600c075204a8818fa4d3d2e6b"
       }
+    },
+    {
+      "id": "K011",
+      "date": "2026-11-27",
+      "type": "reel",
+      "format": "K1 Reaktion auf Größe (Vorbild-Format)",
+      "scene": "kleiner Kunstbedarf-Laden in italienischer Altstadt, Tageslicht; Kairo (Strohhut, offenes cremefarbenes Leinenhemd, braune Bundfaltenhose, Gold-/Perlenketten, Farbspuren) an der Kasse mit Pinseln und Farbtuben; Verkäuferin (weiß, Mitte 20, Schürze) schaut hoch und lacht überrascht, Kundin staunt; er legt die Pinsel ab und blickt in die Kamera",
+      "sceneTag": "kunstbedarf-kasse",
+      "file": "posts/K011/reel.mp4",
+      "music": "assets/music/songs/j-balvin-willy-william-mi-gente.m4a",
+      "hook": "I only came for brushes... / ...she forgot to ring me up",
+      "caption": "I only came for brushes. She forgot to ring me up. 🎨📏\nGuess my height 👇\n\n#artist #tallguy #aura #painter",
+      "tiktokTitle": "I only came for brushes… she forgot to ring me up 🎨📏",
+      "costUsd": 1.74,
+      "costNote": "2 Startbilder Gemini 3 Pro 2K (Collage) je 0,30 (Variante A verworfen: Gesicht abweichend) + Kling 3 Pro 10 s 1080p 1,13",
+      "generationIds": {
+        "start": "NCqq9H1Ejb3tBfhbXrcS",
+        "startNode": "GVqmnh8ridlF3zZ8zs53",
+        "video": "OpUV9246xHNXfdleQsc0",
+        "videoNode": "WQ6YictnnxWJXP3T68BH"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -651,6 +705,16 @@
       "scene": "altes Atelier nachts am offenen Fenster, Skizzenbuch mit Kohle-Porträt, cremefarbenes Leinenhemd, Ketten, offene Locs (gleiche Szene wie K010 – nicht am 27.11. posten; Narbe nur auf der Wange, Braue weniger sichtbar)",
       "format": "Signatur-Stil dunkel",
       "generationId": "qRf2FwJSLHu3BLbpKFRS",
+      "status": "stock"
+    },
+    {
+      "id": "S006",
+      "file": "posts/stock/S006.jpg",
+      "date": "2026-11-27",
+      "sceneTag": "kunstbedarf-kasse",
+      "scene": "Kunstbedarf-Laden, Verkäuferin und Kundin staunen, Strohhut, cremefarbenes Leinenhemd, Pinsel und Farbtuben in der Hand (4:5-Ausschnitt aus dem K011-Startbild, gleiche Szene wie K011 – nicht am 28.11. posten)",
+      "format": "K1 Reaktion auf Größe, hell",
+      "generationId": "NCqq9H1Ejb3tBfhbXrcS",
       "status": "stock"
     }
   ],
