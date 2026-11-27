@@ -650,7 +650,17 @@
         "video": "OpUV9246xHNXfdleQsc0",
         "videoNode": "WQ6YictnnxWJXP3T68BH"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricool": {
+        "id": 444677074,
+        "uuid": "4074681814742025074",
+        "publishAt": "2026-11-27T19:30:00+01:00",
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "mediaCommit": "85f204cae13638a8d8927f5423a47d514216c497"
+      }
     }
   ],
   "stock": [
